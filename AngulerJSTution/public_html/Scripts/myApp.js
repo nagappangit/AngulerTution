@@ -4,4 +4,8 @@
  * and open the template in the editor.
  */
 /* Welcome angulerJS */
-anguler.module
+/* creating first module */
+/*anguler.module('fistModule',[]);//defines the module with no dependencies
+ anguler.module('firstModule',[moudleA, moduleB]);//defines the module with two dependencies */
+
+
